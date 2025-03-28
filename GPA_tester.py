@@ -1,5 +1,5 @@
 """
-Author: Billy Parrish
+Billy Parrish
 GPA_Tester
 Description: This app accepts student names and GPAs and tests if the student qualifies for either the Dean's List or the Honor Roll.
 """
